@@ -60,3 +60,7 @@ Your portfolio is now fully responsive, adapting flawlessly to all screen sizes.
 What was once a simple GitHub repository has transformed into an award-winning platform that showcases your talents and achievements in the best possible light. Your portfolio is now a true work of art, a testament to your skills and creativity.
 
 Are you ready to unveil your new and improved portfolio to the world? Congratulations, Ajay Prakash, on this incredible transformation!
+<img width="1512" alt="Screenshot 2023-09-10 at 12 48 00 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/de6570f8-31d9-4120-92e0-99f459981bcb">
+<img width="1512" alt="Screenshot 2023-09-10 at 12 48 36 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/1e0f84e8-2e3e-4914-af16-2a8c35f3318a">
+
+
