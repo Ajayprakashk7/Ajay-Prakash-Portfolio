@@ -1,7 +1,8 @@
-
 # Ajay Prakash's Portfolio
 
 Welcome to the refined version of Ajay Prakash's Portfolio. We've given this project a complete makeover to enhance its elegance and functionality.
+<h2>Click here 👉 https://ajayprakashk7.github.io/Ajay-Prakash-Portfolio 👈 to go to my Portfolio Website. </h2>
+
 
 ## Design and UI/UX
 
@@ -27,8 +28,6 @@ Your "About Me" section now paints a vivid picture of your journey. We've refine
 
 The "Technical Skills" section has been restructured to make your expertise shine. Each skill is accompanied by a dynamic progress bar, showcasing your proficiency in a visually appealing way.
 
-## Project Showcase
-
 ### Elevating Projects
 
 Your projects now take center stage. Each project is presented as a captivating story, complete with stunning project images and clear calls-to-action. Users can seamlessly access your GitHub and even experience live demos right from your portfolio.
@@ -36,8 +35,6 @@ Your projects now take center stage. Each project is presented as a captivating 
 ### Portfolio Highlight
 
 We've introduced a "Portfolio Highlight" section on the homepage, showcasing your most impressive project. It's the first thing visitors see, creating an instant wow factor.
-
-## Contact Experience
 
 ### Seamless Contact
 
@@ -55,11 +52,6 @@ Behind the scenes, we've optimized the code for blazing-fast performance. Your p
 
 Your portfolio is now fully responsive, adapting flawlessly to all screen sizes. Whether on a desktop, tablet, or smartphone, users will have a consistent and delightful experience.
 
-## Conclusion
-
-What was once a simple GitHub repository has transformed into an award-winning platform that showcases your talents and achievements in the best possible light. Your portfolio is now a true work of art, a testament to your skills and creativity.
-
-Are you ready to unveil your new and improved portfolio to the world? Congratulations, Ajay Prakash, on this incredible transformation!
 <img width="1512" alt="Screenshot 2023-09-10 at 12 48 00 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/de6570f8-31d9-4120-92e0-99f459981bcb">
 <img width="1512" alt="Screenshot 2023-09-10 at 12 48 36 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/1e0f84e8-2e3e-4914-af16-2a8c35f3318a">
 <img width="1512" alt="Screenshot 2023-09-10 at 12 49 18 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/716751da-4929-49af-936c-c08b3022bff6">
