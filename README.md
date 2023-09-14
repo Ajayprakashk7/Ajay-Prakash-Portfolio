@@ -1,7 +1,7 @@
 # Ajay Prakash's Portfolio
 
 Welcome to the refined version of Ajay Prakash's Portfolio. We've given this project a complete makeover to enhance its elegance and functionality.
-<h2>Click here 👉 https://ajayprakashk7.github.io/Ajay-Prakash-Portfolio 👈 to go to my Portfolio Website. </h2>
+<h2>Click here 👉 https://ajayprakash.live 👈 to go to my Portfolio Website. </h2>
 
 
 ## Design and UI/UX
