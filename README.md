@@ -54,7 +54,10 @@ Your portfolio is now fully responsive, adapting flawlessly to all screen sizes.
 
 <img width="1512" alt="Screenshot 2023-09-10 at 12 48 00 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/de6570f8-31d9-4120-92e0-99f459981bcb">
 <img width="1512" alt="Screenshot 2023-09-10 at 12 48 36 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/1e0f84e8-2e3e-4914-af16-2a8c35f3318a">
-<img width="1512" alt="Screenshot 2023-09-10 at 12 49 18 AM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/716751da-4929-49af-936c-c08b3022bff6">
+<img width="1495" alt="Screenshot 2023-09-14 at 4 35 45 PM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/7ef337ff-b404-43ce-ad34-3d0722d22d67">
+<img width="1496" alt="Screenshot 2023-09-14 at 4 33 11 PM" src="https://github.com/Ajayprakashk7/Ajay-Prakash-Portfolio/assets/80052150/16901128-fd0e-44f8-8e0c-65af311000fe">
+
+
 
 
 
